@@ -1,0 +1,8 @@
+ctrl . 		 edit in vscode
+ctrl+Enter   New line
+lorem10 	tab
+shift+alt+downarrow   to copy line 
+
+ctrl + left arrow    across word 
+alt + up arrow  move line where you want  ( image site https://source.unsplash.com/ ) 
+shit + alt + downarrow  copy same line above and below 
