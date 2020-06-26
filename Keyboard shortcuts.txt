@@ -5,4 +5,5 @@ shift+alt+downarrow   to copy line
 
 ctrl + left arrow    across word 
 alt + up arrow  move line where you want  ( image site https://source.unsplash.com/ ) 
-shit + alt + downarrow  copy same line above and below 
+shift + alt + downarrow  copy same line above and below 
+ctrl + D arrow up   select
