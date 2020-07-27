@@ -1,4 +1,4 @@
-/* Reset */
+/* Reset page */
 *{
 	margin: 0;
 	padding:0;
@@ -6,8 +6,7 @@
 }
 
 /* Main Sizing Css */
-
-body,html{
+body,html {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 line-height: 1.7;
 }
