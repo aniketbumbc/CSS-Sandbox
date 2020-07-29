@@ -152,3 +152,8 @@ height: 400px;
 	background: url('../img/photo-1.jpg') no-repeat;
 	min-height: 100%;
 }
+
+
+#home-info .info-content p {
+	padding-bottom: 20px;
+}
