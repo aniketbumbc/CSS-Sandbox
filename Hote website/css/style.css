@@ -126,6 +126,15 @@ padding:0 20px;
 	font-size: 60px;
 	line-height: 1.2em;
 }
+#home-info .info-content{
+	float: right;
+	height: 100%;
+	text-align: center;
+	width: 50%;
+	overflow: hidden;
+	padding: 30px 50px;
+}
+
 
 #showcase .showcase-content p{
 	padding-bottom: 20px;
