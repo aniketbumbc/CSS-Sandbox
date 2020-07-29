@@ -28,6 +28,47 @@ max-width: 1100px;
 overflow: auto;
 padding:0 20px;
 }
+.text-prime{
+	color: #ee9b47;
+}
+
+.lead{
+	font-size: 20px;
+}
+
+.btn {
+	display: inline-block;
+	color: aliceblue;
+	font-size: 18px;
+	padding: 13px 20px;
+	background-color:#333;
+	border:1px solid #ee9b47;
+	cursor: pointer;
+}
+.btn:hover{
+	background: #ee9b47;
+	color: #333;
+}
+.btn-light{
+	background: #f4f4f4;
+	color: #333333;
+}
+.bg-dark{
+	background: #333;
+	color: #ffffff;
+}
+
+.bg-light{
+	background: #f4f4f4;
+	color: #333;
+}
+
+.bg-primary{
+	background: #333;
+	color: #f7c08a;
+}
+
+
 
 /* Nav Bar */
 #navbar{
@@ -65,3 +106,30 @@ padding:0 20px;
 	background: #444444;
 	color: #f7c08a;
 }
+
+/* Show Case */
+
+#showcase{
+	background: url('../img/showcase.jpg') no-repeat
+	center center/cover;
+	height: 600px;
+	
+}
+
+#showcase .showcase-content{
+	color: rgb(231, 218, 203);
+	text-align: center;
+	padding-top: 170px;
+}
+
+#showcase .showcase-content h1{
+	font-size: 60px;
+	line-height: 1.2em;
+}
+
+#showcase .showcase-content p{
+	padding-bottom: 20px;
+	line-height: 1.7em;
+}
+
+/* home-info */
